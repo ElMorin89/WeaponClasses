@@ -45,7 +45,7 @@ namespace WeaponClasses
     {
         private const string ModId = "morino.rounds.WeaponClasses";
         private const string ModName = "WeaponClasses";
-        public const string Version = "0.0.0"; // What version are we on (major.minor.patch)?
+        public const string Version = "0.1.0"; // What version are we on (major.minor.patch)?
         public const string ModInitials = "MWC";
         public const string TestModName = "Test Cards";
         public const string TestModInitials = "MTC";
